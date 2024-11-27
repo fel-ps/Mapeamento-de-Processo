@@ -27,7 +27,7 @@ Os mapeamentos foram elaborados utilizando o **Bizagi Modeler**, uma ferramenta 
 
 ## 📷 Prévia do Site
 
-![Imagem do site](path/to/image.jpg)  
+![Imagem do site](libs/img/site.png) 
 *Exemplo de visualização do site com o mapeamento de processos.*
 
 ---
